@@ -99,9 +99,9 @@ This project is a Spring Boot application that integrates OpenAI's GPT and DALLÂ
 - Enhance UI integration.
 
 ## Screenshots
-![Image Generator UI]
-![Chat Generator UI]
-![Recipe Generator UI]
+![Image Generator UI] (imagegen.png)
+![Chat Generator UI] (askai.png)
+![Recipe Generator UI] (recipe.png)
 
 ---
 **Maintainer:** Aditya
