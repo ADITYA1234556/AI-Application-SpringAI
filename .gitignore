@@ -1,0 +1,56 @@
+FRONTEND/node_modules
+FRONTEND/.pnp
+FRONTEND/.pnp.js
+
+# testing
+FRONTEND/coverage
+
+# production
+FRONTEND/build
+
+# misc
+FRONTEND/.DS_Store
+FRONTEND/.env.local
+FRONTEND/.env.development.local
+FRONTEND/.env.test.local
+FRONTEND/.env.production.local
+
+FRONTEND/npm-debug.log*
+FRONTEND/yarn-debug.log*
+FRONTEND/yarn-error.log*
+
+
+BACKEND/HELP.md
+BACKEND/!.mvn/wrapper/maven-wrapper.jar
+BACKEND/!**/src/main/**/target/
+BACKEND/!**/src/test/**/target/
+
+### STS ###
+BACKEND/.apt_generated
+BACKEND/.classpath
+BACKEND/.factorypath
+BACKEND/.project
+BACKEND/.settings
+BACKEND/.springBeans
+BACKEND/.sts4-cache
+
+### IntelliJ IDEA ###
+BACKEND/.idea
+BACKEND/*.iws
+BACKEND/*.iml
+BACKEND/*.ipr
+
+### NetBeans ###
+BACKEND/nbproject/private/
+BACKEND/nbbuild/
+BACKEND/dist/
+BACKEND/nbdist/
+BACKEND/.nb-gradle/
+BACKEND/build/
+BACKEND/!**/src/main/**/build/
+BACKEND/!**/src/test/**/build/
+
+### VS Code ###
+BACKEND/.vscode/
+
+spring-ai-recording.mkv
